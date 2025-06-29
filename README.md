@@ -1,75 +1,96 @@
-<h1 align="center" style="font-size:40px; color:black;">Tamizhan's Projects</h1>
-<h2 style="color:black;">1. Currency Converter App</h2>
-<h3>
-  An application based on Python and Tkinter that allows users to convert between multiple currencies in real-time.
-  The app fetches live exchange rates using an API and supports major world currencies.
-</h3>
-<h3>
-  It is a GUI or CLI-based app that converts one currency to another using mocked or API-based exchange rates.
-</h3>
-<h3>
-  The application takes the amount, source currency, and target currency as input from the user, then applies the conversion logic using Python,
-  and returns the converted amount as output.
-</h3>
-<h2 style="color:black;">2. Expense Tracker</h2>
-<h3>
-  An application based on Python that help users to track their daily or monthly expenses and manage the budget effectively.
-  A Command-line expense tracker to record and categorize expenses and generate basicc report.
-</h3>
-<h3>This application allows user to:-</h3>
-  <h3>"Add expenses by category and date"</h3>
-<h3>"Store in a local file(CSV or JSON)"</h3>
-<h3>"Show monthly reports"</h3>
-<h3>"Plotting the pie-chart and bar-chat using matplotlib library of python.</h3>
-<h2 style="color:black;">3. Library Book Management System</h2>
-<h3>
-  Console based system to manage books, issue books, return books and handling/managing the books in library.
-  It is based on Python-programming language, console-based.
-</h3>
-<h3>This application allows user/student to :-</h3>
-<h3>"Add or remove books"</h3>
-<h3>"Issue or remove book"</h3>
-<h3>"Imposing fine on student for late return of book"</h3>
-<h3>"Store data in JSON or txt file"</h3>
-<h3>This application implies the conditional-logic, functions, datetime library in python.</h3>
-<h2 style="color:black;">4. Quiz App</h2>
-<h3>An interactive python based quiz application that allows users to test their knowledge on various topics.</h3>
-<h3>This app displays one question at a time, gives the user's final score based upon performance.</h3>
-<h3>It is a GUI-based quiz app where users can select answers and get instant feedback.</h3>
-<h3>This app allows:-</h3>
-<h3>"Display MCQs with 4-options"</h3>
-<h3>"Navigate to next/previous question"</h3>
-<h3>"Show user's score at the end"</h3>
-<h3>"Load question from JSON file or text file"</h3>
-<h2 style="color:black;">5. Weather App</h2>
-<h3>A GUI based application that provides real-time weather updates to users</h3>
-<h3>It is based on Python that fetches weather data based on name of city</h3>
-<h3>This application uses an OpenWeatherMap API or mock API</h3>
-<h3>Takes name of city as an input</h3>
-<h3>Gives the temperature, description, humidity as an input</h3>
-<h3>This application uses the Tkinter library of python to provide an interactive interface to an user</h3>
-<h2 style="color:black;">6. To-Do List App</h2>
-<h3>An effective task management application that helps users to organize their daily activities, this app allows user to add, edit task based on preferences </h3>
-<h3>It is GUI based application that provides an interface to user using the Tkinter python library</h3>
-<h3>This application is best for improving productivity and managing time effectively</h3>
-<h3>This application allows users to:-</h3>
-<h3>"Add, delete, edit tasks"</h3>
-<h3>"Save and load from JSON or TXT file"</h3>
-<h3>Functional productivitu tools are used for file handling and establishing CRUD logic.</h3>
-<h2 style="color:black;">7. Password Generator Tool</h2>
-<h3>A secure and customizable password generator that creates strong, random passwords to help users enhance their online security. This tool allows users to choose the length and character types for their passwords, ensuring flexibility and strength against brute-force attacks.
-</h3>
-<h3>A security-focused project to practice loops, random modules and string handling</h3>
-<h3>It is a CLI tool to generate strong passwords based on user input.</h3>
-<h3>This application takes length, special characters, digit from user as an input </h3>
-<h3>Provides a secure password as an output</h3>
-<h3>Also allows user to save password to TXT file</h3>
-<h2 style="color:black;">8. Simple Chatbot</h2>
-<h3>A basic chatbot application that interacts with users by responding to predefined inputs. It simulates a conversational experience, making it ideal for learning how bots work and how to handle user input with conditional logic or natural language processing.
-</h3>
-<h3>It is rule-based chatbot for answering common queries(about Tamizhan Skills courses)</h3>
-<h3>This application takes user message as an input</h3>
-<h3>It is uses if-else or dictionaries to match patters</h3>
-<h3>It uses NLTK for text-processing</h3>
-<h3>This application give us insights of NLP(Natural language processing).</h3>
-<h3>Gives introduction to NLP and logic building can be used in websites as basic assistants.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tamizhan's Projects</title>
+</head>
+<body style="font-family:Arial, sans-serif; line-height:1.6; background-color:#f9f9f9; color:#333; padding: 20px;">
+
+  <h1 align="center" style="font-size:40px; color:royalblue;">Tamizhan's Projects</h1>
+
+  <h2 style="color:teal;">1. Currency Converter App</h2>
+  <p>
+    A GUI/CLI-based application built with Python and Tkinter that allows users to convert between multiple currencies in real-time.
+    It fetches live exchange rates using an API or mock data.
+  </p>
+  <ul>
+    <li>Takes amount, source, and target currency as input</li>
+    <li>Applies conversion logic using Python</li>
+    <li>Displays the converted amount</li>
+  </ul>
+
+  <h2 style="color:teal;">2. Expense Tracker</h2>
+  <p>
+    A command-line application to help users manage and track daily/monthly expenses and generate basic reports.
+  </p>
+  <ul>
+    <li>Add expenses by category and date</li>
+    <li>Store data in local files (CSV/JSON)</li>
+    <li>Generate monthly reports</li>
+    <li>Visualize expenses using pie and bar charts (matplotlib)</li>
+  </ul>
+
+  <h2 style="color:teal;">3. Library Book Management System</h2>
+  <p>
+    A console-based Python application for managing library operations like issuing, returning, and tracking books.
+  </p>
+  <ul>
+    <li>Add or remove books</li>
+    <li>Issue or return books</li>
+    <li>Apply fines for late returns</li>
+    <li>Data stored in JSON or TXT files</li>
+  </ul>
+
+  <h2 style="color:teal;">4. Quiz App</h2>
+  <p>
+    A GUI-based quiz application using Python where users can test their knowledge through multiple-choice questions.
+  </p>
+  <ul>
+    <li>Displays MCQs with 4 options</li>
+    <li>Allows navigation between questions</li>
+    <li>Shows final score</li>
+    <li>Questions loaded from JSON or text files</li>
+  </ul>
+
+  <h2 style="color:teal;">5. Weather App</h2>
+  <p>
+    A Tkinter-based weather application in Python that provides real-time weather updates using city names.
+  </p>
+  <ul>
+    <li>Uses OpenWeatherMap API or mock API</li>
+    <li>Displays temperature, weather description, and humidity</li>
+    <li>Interactive GUI interface using Tkinter</li>
+  </ul>
+
+  <h2 style="color:teal;">6. To-Do List App</h2>
+  <p>
+    A simple productivity application with GUI for managing daily tasks using Python and Tkinter.
+  </p>
+  <ul>
+    <li>Add, delete, and edit tasks</li>
+    <li>Save/load tasks from TXT or JSON files</li>
+    <li>Implements basic CRUD operations</li>
+  </ul>
+
+  <h2 style="color:teal;">7. Password Generator Tool</h2>
+  <p>
+    A secure CLI tool that generates strong, random passwords based on user preferences.
+  </p>
+  <ul>
+    <li>Users can define password length and character types</li>
+    <li>Incorporates random and string libraries</li>
+    <li>Option to save password to a file</li>
+  </ul>
+
+  <h2 style="color:teal;">8. Simple Chatbot</h2>
+  <p>
+    A basic rule-based chatbot built in Python that simulates conversations using pre-defined responses.
+  </p>
+  <ul>
+    <li>Takes user input and matches patterns using if-else/dictionaries</li>
+    <li>Processes text using NLTK</li>
+    <li>Ideal for learning NLP basics and chatbot logic</li>
+  </ul>
+
+</body>
+</html>
