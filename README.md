@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:40px;color:"blue"">Tamizhan's Project</h1>
+<h1 align="center" style="font-size:40px;color:blue">Tamizhan's Project</h1>
 
 <h2 style="color:royalblue">1. Currency Convertor App</h2>
 <h3>
