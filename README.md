@@ -16,9 +16,9 @@
   An application based on Python that help users to track their daily or monthly expenses and manage the budget effectively.
   A Command-line expense tracker to record and categorize expenses and generate basicc report.
 </h3>
-<h3>This application allows user to:-
-  "Add expenses by category and date"
-"Store in a local file(CSV or JSON)"
-"Show monthly reports",
-"Plotting the pie-chart and bar-chat using matplotlib library of python.</h3>
+<h3>This application allows user to:-</h3>
+  <h3>"Add expenses by category and date"</h3>
+<h3>"Store in a local file(CSV or JSON)"</h3>
+<h3>"Show monthly reports"</h3>
+<h3>"Plotting the pie-chart and bar-chat using matplotlib library of python.</h3>
 
