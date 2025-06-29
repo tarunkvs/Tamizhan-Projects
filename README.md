@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size:40px; color:blue;">Tamizhan's Projects</h1>
-<h2 style="color:royalblue;">1. Currency Converter App</h2>
+<h1 align="center" style="font-size:40px; color:black;">Tamizhan's Projects</h1>
+<h2 style="color:black;">1. Currency Converter App</h2>
 <h3>
   An application based on Python and Tkinter that allows users to convert between multiple currencies in real-time.
   The app fetches live exchange rates using an API and supports major world currencies.
@@ -11,3 +11,14 @@
   The application takes the amount, source currency, and target currency as input from the user, then applies the conversion logic using Python,
   and returns the converted amount as output.
 </h3>
+<h2 style="color:black;">2. Expense Tracker</h2>
+<h3>
+  An application based on Python that help users to track their daily or monthly expenses and manage the budget effectively.
+  A Command-line expense tracker to record and categorize expenses and generate basicc report.
+</h3>
+<h3>This application allows user to:-
+  "Add expenses by category and date"
+"Store in a local file(CSV or JSON)"
+"Show monthly reports",
+"Plotting the pie-chart and bar-chat using matplotlib library of python.</h3>
+
