@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size:40px;color:blue">Tamizhan's Project</h1>
+<h1 align="center" style="font-size:40px; color:blue;">Tamizhan's Project</h1>
 
-<h2 style="color:royalblue">1. Currency Convertor App</h2>
+<h2 style="color:royalblue;">1. Currency Convertor App</h2>
 <h3>
   An application based on Python-Tkinter that allows user to convert between multiple currencies in real-time.
   The app fetches live exchange rates using an API and supports major world currencies.
