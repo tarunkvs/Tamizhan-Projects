@@ -11,7 +11,7 @@
   The application takes the amount, source currency, and target currency as input from the user, then applies the conversion logic using Python,
   and returns the converted amount as output.
 </h3>
-<h2 style="color:black;">2. Expense Tracker</h2>
+<h2 style="color:blue;">2. Expense Tracker</h2>
 <h3>
   An application based on Python that help users to track their daily or monthly expenses and manage the budget effectively.
   A Command-line expense tracker to record and categorize expenses and generate basicc report.
